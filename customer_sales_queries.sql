@@ -1,11 +1,12 @@
 # Customer Sales Analysis Queries
 # Date: 02/07/2024
+# Tharina Messeroux
 
 /*
 This program contains a series of queries to analyze customer and sales data from the retail database. The queries address various business 
 questions such as the number of different countries customers come from, the city with the highest number of customers, the average days between ordering
- and shipping, the most expensive order received, and high-spending customers. Additionally, it identifies the sales representatives responsible for 
- high-performing clients, providing insights into customer demographics, sales performance, and payment patterns.
+and shipping, the most expensive order received, and high-spending customers. Additionally, it identifies the sales representatives responsible for 
+high-performing clients, providing insights into customer demographics, sales performance, and payment patterns.
 
 */
 USE retail;
